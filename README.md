@@ -1,7 +1,7 @@
 ### 👋 Hello, I'm Eduardo Sorrentino Vieira 
 
-##### 📌 I'm from Brazil.
-##### 💻 Front-end developer.
+#### 📌 I'm from Brazil.
+#### 💻 Front-end developer.
 
 
 ## 📊 GitHub Stats
