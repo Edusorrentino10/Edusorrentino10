@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Eduardo Sorrentino Vieira 
 
-#### 📌 I'm from Brazil.
+#### 📌 Vila Velha - ES.
 #### 💻 Front-end developer.
 
 
