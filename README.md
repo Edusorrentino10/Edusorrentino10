@@ -1,7 +1,8 @@
 ### 👋 Hello, I'm Eduardo Sorrentino Vieira 
 
-#### 📌 Vila Velha - ES.
-#### 💻 Front-end developer.
+📌 Vila Velha - ES.
+
+💻 Front-end developer.
 
 
 ## 📊 GitHub Stats
