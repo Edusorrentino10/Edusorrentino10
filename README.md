@@ -2,7 +2,7 @@
 
 📌 Vila Velha - ES.
 
-💻 Front-end developer.
+💻 Full-Stack developer.
 
 
 ## 📊 GitHub Stats
