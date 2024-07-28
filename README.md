@@ -2,13 +2,8 @@
 
 📌 Vila Velha - ES.
 
-💻 Front-end developer.
+💻 Software Developer.
 
-
-## 📊 GitHub Stats
-
-[![Edusorrentino10's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edusorrentino10&count_private=true&show_icons=true&theme=tokyonight&line_height=40)](https://github.com/Edusorrentino10/github-readme-stats) 
-          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edusorrentino10&hide=shaderlab&theme=tokyonight&card_height=500)](https://github.com/Edusorrentino10/github-readme-stats)
 
 ## < Languages and Libraries />
 
